@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan Riley Simeon</h1>
 <h3 align="center">An aspiring Software Engineer from the Philippines.</h3>
-(img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif)
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jan riley simeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan riley simeon" height="30" width="40" /></a>

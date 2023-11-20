@@ -1,3 +1,4 @@
+![cover_gif](https://github.com/rileysimeon/rileysimeon/assets/118100704/58d9f9be-4084-4f7d-a614-dc5a9e8a56f8)
 <h1 align="center">Hi 👋, I'm Jan Riley Simeon</h1>
 <h3 align="center">An aspiring Software Engineer from the Philippines.</h3>
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">

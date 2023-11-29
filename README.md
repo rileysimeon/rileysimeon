@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/jan riley simeon](https://www.linkedin.com/in/jan-riley-simeon-403033268/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan riley simeon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jan-riley-simeon-403033268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan riley simeon" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rileysimeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rileysimeon" height="30" width="40" /></a>
 </p>
 

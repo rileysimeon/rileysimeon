@@ -1,7 +1,7 @@
 ![cover_gif](https://github.com/rileysimeon/rileysimeon/assets/118100704/58d9f9be-4084-4f7d-a614-dc5a9e8a56f8)
 <h1 align="center">Hi 👋, I'm Jan Riley Simeon</h1>
 <h3 align="center">An aspiring Penetration Tester from the Philippines.</h3>
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif"><br>
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif"><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jan-riley-simeon-403033268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan riley simeon" height="30" width="40" /></a>

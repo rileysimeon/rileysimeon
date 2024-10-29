@@ -1,8 +1,8 @@
 ![cover_gif](https://github.com/user-attachments/assets/f6e1c8f6-7a54-48b3-9092-03402e0327c2)
 
 
-<h1 align="center">Hi 👋, I'm Jan Riley Simeon</h1>
-<h3 align="center">A Security Researcher from the Philippines.</h3>
+<h1 align="center">Hi 👋, I'm Riley</h1>
+<h3 align="center">A Security Researcher</h3>
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif"><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

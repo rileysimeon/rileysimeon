@@ -1,5 +1,3 @@
-![cover_gif](https://github.com/user-attachments/assets/f6e1c8f6-7a54-48b3-9092-03402e0327c2)
-
 
 <h1 align="center">Hi 👋, I'm Riley</h1>
 <h3 align="center">A Security Researcher</h3>
